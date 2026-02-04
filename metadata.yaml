@@ -1,5 +1,7 @@
 homepage: 'https://stape.io/'
 documentation: 'https://github.com/stape-io/sendgrid-tag'
 versions:
+  - sha: e17bd43ece77e37c0a1231b50ef5e239cb4de913
+    changeNotes: Added consent section.
   - sha: 1b6041c518273902eff263bd2eb37531e43e37d7
     changeNotes: Initial release.
