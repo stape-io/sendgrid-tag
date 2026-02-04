@@ -1,4 +1,5 @@
-homepage: "https://stape.io/"
+homepage: 'https://stape.io/'
+documentation: 'https://github.com/stape-io/sendgrid-tag'
 versions:
   - sha: 1b6041c518273902eff263bd2eb37531e43e37d7
     changeNotes: Initial release.
