@@ -16,7 +16,7 @@ ___INFO___
   "displayName": "SendGrid",
   "brand": {
     "id": "brand_dummy",
-    "displayName": "Stape",
+    "displayName": "stape.io",
     "thumbnail": "data:image/png;base64,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RZwJECBAgACBFQEjY4XRJQQIECBAgMAUMDKmiDMBAgQIECCwImBkrDC6hAABAgQIEJgCRsYUcSZAgAABAgRWBIyMFUaXECBAgAABAlPAyJgizgQIECBAgMCKgJGxwugSAgQIECBAYAoYGVPEmQABAgQIEFgRMDJWGF1CgAABAgQITAEjY4o4EyBAgAABAisCRsYKo0sIECBAgACBKWBkTBFnAgQIECBAYEXAyFhhdAkBAgQIECAwBYyMKeJMgAABAgQIrAg8fn7Lr3770fOvPglUCrz7o6cPvvH2k8rsQhP4UuAfjx+9R4JAq8CTRw8/+OMI/2JkjJ87EqgT+NbT1x9852tGRl1xAr8Q+OW33/jNi4MvBA4I+HPJgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCRkZiKzIRIECAAIEDAkbGgRI9gQABAgQIJAoYGYmtyESAAAECBA4IGBkHSvQEAgQIECCQKGBkJLYiEwECBAgQOCBgZBwo0RMIECBAgECigJGR2IpMBAgQIEDggICRcaBETyBAgAABAokCj5+H+vkP33zv+XefBBoFvvnmk4/efvLok8bsMhMgQIAAAQIECBAgQIAAAQIECBAgQIDA/1Pg3xpHMT6fR1+LAAAAAElFTkSuQmCC"
   },
   "description": "Allow sending an email and create/update contacts.",
@@ -30,33 +30,41 @@ ___TEMPLATE_PARAMETERS___
 
 [
   {
-    "type": "TEXT",
-    "name": "apiKey",
-    "displayName": "API Key",
-    "simpleValueType": true,
-    "valueValidators": [
+    "type": "GROUP",
+    "name": "configGroup",
+    "displayName": "",
+    "groupStyle": "NO_ZIPPY",
+    "subParams": [
       {
-        "type": "NON_EMPTY"
-      }
-    ],
-    "help": "You can find info on \u003ca href\u003d\"https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api/authentication#api-keys\" target\u003d\"_blank\"\u003ehow to get API key by this link\u003c/a\u003e."
-  },
-  {
-    "type": "RADIO",
-    "name": "action",
-    "displayName": "Action",
-    "radioItems": [
-      {
-        "value": "email",
-        "displayValue": "Send email"
+        "type": "TEXT",
+        "name": "apiKey",
+        "displayName": "API Key",
+        "simpleValueType": true,
+        "valueValidators": [
+          {
+            "type": "NON_EMPTY"
+          }
+        ],
+        "help": "You can find info on \u003ca href\u003d\"https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api/authentication#api-keys\" target\u003d\"_blank\"\u003ehow to get API key by this link\u003c/a\u003e."
       },
       {
-        "value": "contact",
-        "displayValue": "Add or Update a Contact"
+        "type": "RADIO",
+        "name": "action",
+        "displayName": "Action",
+        "radioItems": [
+          {
+            "value": "email",
+            "displayValue": "Send email"
+          },
+          {
+            "value": "contact",
+            "displayValue": "Add or Update a Contact"
+          }
+        ],
+        "simpleValueType": true,
+        "defaultValue": "email"
       }
-    ],
-    "simpleValueType": true,
-    "defaultValue": "email"
+    ]
   },
   {
     "type": "GROUP",
@@ -208,6 +216,31 @@ ___TEMPLATE_PARAMETERS___
   },
   {
     "type": "GROUP",
+    "name": "tagExecutionConsentSettingsGroup",
+    "displayName": "Tag Execution Consent Settings",
+    "groupStyle": "ZIPPY_CLOSED",
+    "subParams": [
+      {
+        "type": "RADIO",
+        "name": "adStorageConsent",
+        "radioItems": [
+          {
+            "value": "optional",
+            "displayValue": "Send data always"
+          },
+          {
+            "value": "required",
+            "displayValue": "Send data in case marketing consent given",
+            "help": "Aborts the tag execution if marketing consent (\u003ci\u003ead_storage\u003c/i\u003e Google Consent Mode or Stape\u0027s Data Tag parameter) is not given."
+          }
+        ],
+        "simpleValueType": true,
+        "defaultValue": "optional"
+      }
+    ]
+  },
+  {
+    "type": "GROUP",
     "name": "logsGroup",
     "displayName": "Logs Settings",
     "groupStyle": "ZIPPY_CLOSED",
@@ -239,106 +272,143 @@ ___TEMPLATE_PARAMETERS___
 
 ___SANDBOXED_JS_FOR_SERVER___
 
-const sendHttpRequest = require('sendHttpRequest');
-const JSON = require('JSON');
-const makeTableMap = require('makeTableMap');
+const getcontainerVersion = require('getContainerVersion');
+const getAllEventData = require('getAllEventData');
 const getRequestHeader = require('getRequestHeader');
+const JSON = require('JSON');
 const logToConsole = require('logToConsole');
-const getContainerVersion = require('getContainerVersion');
-const containerVersion = getContainerVersion();
+const makeTableMap = require('makeTableMap');
+const sendHttpRequest = require('sendHttpRequest');
+
+/*==============================================================================
+==============================================================================*/
+
+const eventData = getAllEventData();
+
+if (!isConsentGivenOrNotRequired(data, eventData)) {
+  return data.gtmOnSuccess();
+}
+
+const containerVersion = getcontainerVersion();
+const traceId = getRequestHeader('trace-id');
 const isDebug = containerVersion.debugMode;
 const isLoggingEnabled = determinateIsLoggingEnabled();
-const traceId = getRequestHeader('trace-id');
 
 let apiUrl, method, eventName, requestBody;
 
 if (data.action === 'email') {
-    apiUrl = '/mail/send';
-    eventName = 'Email';
-    method = 'POST';
+  apiUrl = '/mail/send';
+  eventName = 'Email';
+  method = 'POST';
 
-    requestBody = {
-        'personalizations': [
-            {
-                'to': [{'email': data.emailTo}]
-            }
-        ],
-        'from': {'email': data.emailFrom},
-        'subject': data.emailSubject,
-        'content': [{'type': 'text/html', 'value': data.emailText}]
-    };
+  requestBody = {
+    personalizations: [
+      {
+        to: [{ email: data.emailTo }]
+      }
+    ],
+    from: { email: data.emailFrom },
+    subject: data.emailSubject,
+    content: [{ type: 'text/html', value: data.emailText }]
+  };
 } else {
-    apiUrl = '/marketing/contacts';
-    eventName = 'Contact';
-    method = 'PUT';
+  apiUrl = '/marketing/contacts';
+  eventName = 'Contact';
+  method = 'PUT';
 
-    requestBody = {
-        'contacts': [data.contactDefault && data.contactDefault.length ? makeTableMap(data.contactDefault, 'name', 'value') : {}]
-    };
+  requestBody = {
+    contacts: [
+      data.contactDefault && data.contactDefault.length
+        ? makeTableMap(data.contactDefault, 'name', 'value')
+        : {}
+    ]
+  };
 
-    requestBody.contacts[0].email = data.contactEmail;
+  requestBody.contacts[0].email = data.contactEmail;
 
-    if (data.contactLists) {
-        requestBody.list_ids = data.contactLists.split(',');
-    }
+  if (data.contactLists) {
+    requestBody.list_ids = data.contactLists.split(',');
+  }
 
-    if (data.contactCustom && data.contactCustom.length) {
-        requestBody.contacts[0].custom_fields = makeTableMap(data.contactCustom, 'name', 'value');
-    }
+  if (data.contactCustom && data.contactCustom.length) {
+    requestBody.contacts[0].custom_fields = makeTableMap(data.contactCustom, 'name', 'value');
+  }
 }
-
 
 const requestUrl = 'https://api.sendgrid.com/v3' + apiUrl;
 
 if (isLoggingEnabled) {
-    logToConsole(JSON.stringify({
-        'Name': 'SendGrid',
-        'Type': 'Request',
-        'TraceId': traceId,
-        'EventName': eventName,
-        'RequestMethod': method,
-        'RequestUrl': requestUrl,
-        'RequestBody': requestBody,
-    }));
+  logToConsole(
+    JSON.stringify({
+      Name: 'SendGrid',
+      Type: 'Request',
+      TraceId: traceId,
+      EventName: eventName,
+      RequestMethod: method,
+      RequestUrl: requestUrl,
+      RequestBody: requestBody
+    })
+  );
 }
 
-sendHttpRequest(requestUrl, (statusCode, headers, body) => {
+sendHttpRequest(
+  requestUrl,
+  (statusCode, headers, body) => {
     if (isLoggingEnabled) {
-        logToConsole(JSON.stringify({
-            'Name': 'SendGrid',
-            'Type': 'Response',
-            'TraceId': traceId,
-            'EventName': eventName,
-            'ResponseStatusCode': statusCode,
-            'ResponseHeaders': headers,
-            'ResponseBody': body,
-        }));
+      logToConsole(
+        JSON.stringify({
+          Name: 'SendGrid',
+          Type: 'Response',
+          TraceId: traceId,
+          EventName: eventName,
+          ResponseStatusCode: statusCode,
+          ResponseHeaders: headers,
+          ResponseBody: body
+        })
+      );
     }
 
     if (statusCode >= 200 && statusCode < 300) {
-        data.gtmOnSuccess();
+      data.gtmOnSuccess();
     } else {
-        data.gtmOnFailure();
+      data.gtmOnFailure();
     }
-}, {
+  },
+  {
     method: method,
-    headers: {'Content-Type': 'application/json', 'Authorization': 'Bearer ' + data.apiKey}
-}, JSON.stringify(requestBody));
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: 'Bearer ' + data.apiKey
+    }
+  },
+  JSON.stringify(requestBody)
+);
+
+/*==============================================================================
+  Helpers
+==============================================================================*/
+
+function isConsentGivenOrNotRequired(data,eventData) {
+  if (data.adStorageConsent !== 'required') return true;
+  if (eventData.consent_state) return !!eventData.consent_state.ad_storage;
+  const xGaGcs = eventData['x-ga-gcs'] || ''; // x-ga-gcs is a string like "G110"
+  return xGaGcs[2] === '1';
+}
 
 function determinateIsLoggingEnabled() {
-    if (!data.logType) {
-        return isDebug;
-    }
+  if (!data.logType) {
+    return isDebug;
+  }
 
-    if (data.logType === 'no') {
-        return false;
-    }
+  if (data.logType === 'no') {
+    return false;
+  }
 
-    if (data.logType === 'debug') {
-        return isDebug;
-    }
+  if (data.logType === 'debug') {
+    return isDebug;
+  }
 
-    return data.logType === 'always';
+  return data.logType === 'always';
 }
 
 
@@ -471,6 +541,27 @@ ___SERVER_PERMISSIONS___
         "versionId": "1"
       },
       "param": []
+    },
+    "isRequired": true
+  },
+  {
+    "instance": {
+      "key": {
+        "publicId": "read_event_data",
+        "versionId": "1"
+      },
+      "param": [
+        {
+          "key": "eventDataAccess",
+          "value": {
+            "type": 1,
+            "string": "any"
+          }
+        }
+      ]
+    },
+    "clientAnnotations": {
+      "isEditedByUser": true
     },
     "isRequired": true
   }
