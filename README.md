@@ -19,3 +19,6 @@ SendGrid tag for sGTM allows sending messages from SendGrid using the server Goo
 ## Open Source
 
 SendGrid Tag for GTM Server Side is developed and maintained by [Stape Team](https://stape.io/) under the Apache 2.0 license.
+
+### GTM Gallery Status
+🟢 [Listed](https://tagmanager.google.com/gallery/#/owners/stape-io/templates/sendgrid-tag)
